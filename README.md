@@ -45,3 +45,4 @@ int main() {
 ![{1A7C01C4-6159-479A-A047-6160274A2355}](https://github.com/user-attachments/assets/bfbe2e3c-9680-4a0a-b21d-e8cafe63ee02)
 
 # RESULT:
+Thus the implementation of Pseudorandom Number Generation Using Standard library is successfully executed.
